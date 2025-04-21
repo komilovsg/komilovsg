@@ -86,11 +86,4 @@ Fluent in English, Russian, and Tajik, with a working understanding of Persian, 
 
 ---
 
-### Objective
-
-Currently seeking Front-End Developer roles in the US or EU markets, where I can grow into a Senior role and contribute to cutting-edge projects with modern technologies.
-
----
-
-*References available upon request.*
 
