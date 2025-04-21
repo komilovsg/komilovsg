@@ -1,8 +1,7 @@
 **Shakhron Komilov**  
 Dushanbe, Tajikistan  
-Email: komilovsg@gmail.com  
-Phone: +992 944088887  
-Telegram: @komilovsg / @bykomilovsg  
+Email: komilovsg@gmail.com    
+Telegram: @komilovsg
 <a href="https://www.linkedin.com/in/komilovsg">LinkedIn</a>
 <a href="https://github.com/komilovsg">GitHub</a>
 
