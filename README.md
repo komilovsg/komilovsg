@@ -1,4 +1,4 @@
-**Shakhron Komilov**  
+**SHAKHRON KOMILOV**  
 Dushanbe, Tajikistan  
 Email: komilovsg@gmail.com    
 Telegram: @komilovsg
