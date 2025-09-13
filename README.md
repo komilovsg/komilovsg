@@ -26,7 +26,7 @@ Fluent in English, Russian, and Tajik, with a working understanding of Persian, 
 ### Professional Experience
 
 **Vatan ICT** — *Mid Front-End Developer*  
-*Dushanbe, Jan 2025 – Present*
+*Dushanbe, Jan 2025 – Jul 2025*
 - Building scalable and high-performance web apps using TypeScript, React.js, and Next.js.
 - Developed tools for accounting automation and B2B solutions.
 - Integrated REST APIs and collaborated closely with backend engineers.
