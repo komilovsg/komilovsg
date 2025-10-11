@@ -1,5 +1,5 @@
 **SHAKHRON KOMILOV**  
-Dushanbe, Tajikistan  
+Dushanbe, Tajikistan | Moscow, Russia  
 Email: komilovsg@gmail.com    
 Telegram: @komilovsg
 <a href="https://www.linkedin.com/in/komilovsg">LinkedIn</a>
@@ -9,21 +9,29 @@ Telegram: @komilovsg
 
 <h1>Professional Summary</h1>
 
-Detail-oriented and growth-driven Front-End Developer with 2.3 years of hands-on experience in building scalable web applications using React.js, Next.js, TypeScript, and Tailwind CSS. Strong believer in clean code architecture, component-based development, and lifelong learning. Passionate about mentoring others, and have successfully guided over 40 students through their frontend journeys.
+Detail-oriented and growth-driven Front-End Developer with 3 years of hands-on experience in building scalable web applications using React.js, Next.js, TypeScript, and Tailwind CSS, HERO UI, shadn.cn, SASS. Strong believer in clean code architecture, component-based development, and lifelong learning. Passionate about mentoring others, and have successfully guided over 40 students through their frontend journeys.
 
-Fluent in English, Russian, and Tajik, with a working understanding of Persian, Arabic, and Turkic languages.
+Fluent in English, Russian, and Tajik, with a working understanding of Persian.
 
 ---
 
 ### Technical Skills
 
-**Languages & Frameworks:** HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Node.js, Express, React.js, React Native, Next.js  
-**Tools & Technologies:** Tailwind CSS, Redux, Git, GitHub, REST API, Bitbucket, Firebase, Sass, ClickUp, Jira  
+**Languages & Frameworks:** HTML, CSS, SASS, JavaScript, TypeScript, Node.js, React.js, React Native, Next.js  
+**Tools & Technologies:** Tailwind CSS, Redux, Zustand, Git, GitHub, REST API, Bitbucket, Firebase, ClickUp, Jira  
 **Other:** React Router, Figma, Docker (basic), Testing (Jest, RTL), BEM methodology
 
 ---
 
 ### Professional Experience
+
+**ZINDA Capital** — *Mid Front-End Developer*  
+*Dushanbe, Jul 2025 – *
+- В ZINDA we build web-bank, CRM - TypeScript, React.js. 
+- React JS | Next JS 
+- REST API | Axios | Work with backend developers, and designer
+- Figma | GitLub | YouTrack | CLI
+- Zustand.
 
 **Vatan ICT** — *Mid Front-End Developer*  
 *Dushanbe, Jan 2025 – Jul 2025*
@@ -55,6 +63,9 @@ Fluent in English, Russian, and Tajik, with a working understanding of Persian, 
 ---
 
 ### Education & Certifications
+
+**META** (2025)  
+*Advanced React JS*
 
 **ALIF Academy** (2024 – 2025)  
 *Advanced JS, React.js, Next.js*
